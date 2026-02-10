@@ -1,0 +1,18 @@
+# Configuración con datos sensibles
+config/database.php
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Backups locales
+*.sql
+*.sql.gz
+backups/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo

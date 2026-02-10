@@ -1,0 +1,222 @@
+1 - A|Javier Humberto Arce Perez|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+2 - A|Paulina Calcina Apaza|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+3 - A|Ninfa Carreño Vd.de Rodrigues|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+4 - A|Ariel Yucra Quispe|NINGUNO|Zona Pampasi|DOMICILIARIA|ACTIVO|NINGUNO
+5 - A|Maria Julia Safadi de Carrasco|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+6 - A|Josefina Apaza Cocarico|4324331|Zona Pampasi|DOMICILIARIA|ACTIVO|NINGUNO
+7 - A|Paulina Salazar Alanoca|NINGUNO|Zona Pampasi|FALSO|BAJA|BAJA
+8 - A|Margarita Castañon Vargas|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+9 - A|Ignacio Arzabe Pari|NINGUNO|Zona Pampasi|DOMICILIARIA|ACTIVO|NINGUNO
+10 - A|Ana María de Archondo|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+11 - A|María Teresa Mercado Reguerin|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+12 - A|Adelaida Mamani Canaza|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+13 - A|Nolberto Cerezo|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+14 - A|Rosa Carreño Espinoza|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+15 - A|Simón Suca Huanca|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+16 - A|Jesús Mamani Coasaca|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+17 - A|Ana María Vd. De choque|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+18 - A|Patricio Carrasco|NINGUNO|Zona Pampasi|DOMICILIARIA|ACTIVO|NINGUNO
+19 - A|Roberto Ramirez Pedreros|2537875|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+20 - A|Hugo lizon Aceñas|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+21 - A|Maura Ramos Quispe|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+22 - A|Luis Godoy Andrade|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+23 - A|Lucas Aruquipa Flores|NINGUNO|Zona Pampasi|DOMICILIARIA|CORTADO|CORTADO
+24 - A|Estela Poma Salazar|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|
+25 - A|Sami Yanqui Castañón|NINGUNO|Zona Pampasi|DOMICILIARIA|ACTIVO|NINGUNO
+26 - A|Marco Antonio Moreno Ramírez|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+27 - A|Jasinto Zuca Gutiérrez|NINGUNO|Zona Pampasi|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+28 - A|Celso Chincheros Gonzales|NINGUNO|Caritas la paz|DOMICILIARIA SOCIAL|ACTIVO|
+29 - A|Ruth Edith Leon Vera|NINGUNO|Zona Pampasi|DOMICILIARIA|CORTADO|CORTADO
+30 - A|Tito Tintaya Mercado|3480074 QR|Final Pampasi|DOMICILIARIA|BAJA|SIN INST.DOM
+31 - A|Aurora Teodocia Tintaya Mercado|4275214 LP|Final Pampasi|DOMICILIARIA|BAJA|SIN INST.DOM
+32 - A|Francisca Esperanza Tintaya Mercado|6982930|Final Pampasi|DOMICILIARIA|BAJA|SIN INT . DOM
+1 - B|Julio Mass Acosta|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+2 - B|Primo Arce Carrasco|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+3 - B|Aida Moncada Molina|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+4 - B|Juana Alanoca Vda. De Guanca|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+5 - B|Hilda Mamani de Suntura|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+6 - B|Agustín Loayza Matos|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|CORTADO|NINGUNO
+7 - B|Marcelino Ticona Quispe|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+8 - B|Juan Meneses|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+9 - B|José Miranda|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|BAJA|NINGUNO
+10 - B|Carmen Santander Hilaquita|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+11 - B|Santiago Mamani|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+12 - B|Cruz Chacon Mamani|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+13 - B|Visente Vidangos|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+14 - B|María vd. De Millán|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|
+15 - B|Maxima Chincheros|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|BAJA|NINGUNO
+16 - B|Alfonso Soca|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+17 - B|Pedro Mamani Aguilar|5945579 LP|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+18 - B|Lidia Yanarico Quispe|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+19 - B|Ricardo Poma Salazar|NINGUNO|Calle Caritas La Paz|FALSO|SIN INST.|SIN INST.
+21 - B|Primo Arce Carrasco|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+22 - B|Constancia Isabel Sanchez de Tristan|NINGUNO|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+23 - B|Baño Publico|NINGUNO|Calle Caritas La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+24 - B|Guillermina Santander Hilaquita Vda. de Chino|2649174 LP|Calle Caritas La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+25 - B|Nestor Jorge Castro Muriel|2477811|Caritas La Paz|DOMICILIARIA|SIN INST.|NINGUNO
+1 - C|Laura Belmonte de Estrugo|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+2 - C|Antonio Prado|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+3 - C|Rubén Mayta Quispe|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+4 - C|Javier Valentin Bustillos Vidangos|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+5 - C|Juan Santos Gamboa|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+6 - C|Lucia Yanarico Quispe|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+7 - C|Maximo Apaza Quispe|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+8 - C|Marta Quispe de Mamani|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+9 - C|Yanina Claribel Garcia Pacheco|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+10 - C|Julio Santos López|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+11 - C|Teresa Poma de Quisbert|2587449|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+12 - C|Alina Bertha Rodriguez Kuno|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+13 - C|Isaac Paco Aruquipa|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+14 - C|Olga Palma|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+15 - C|Romualdo Nina|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+16 - C|Sergio Mamani Aguilar|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+17 - C|Felicidad Gonzales|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+18 - C|Hilarion Choque Mamani|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+19 - C|Avelino Quisberth M.|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|
+20 - C|Rafael Pabon - Centro de Capacitacion|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+21 - C|Daniel Aruquipa Flores|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+22 - C|Marcos Ángel Mamani Portugal|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+23 - C|Alicia Choquehuanca de Chincheros|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+24 - C|Porfidia Maria Valdez|NINGUNO|Calle Rafael Pabon|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+25 - C|Miriam Sarzuri Castañon|NINGUNO|Calle Rafael Pabon|DOMICILIARIA|ACTIVO|NINGUNO
+26 - C|Carla Lorena Paco Ramos|NINGUNO|Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+1 - D|Justina Soria Gutierrez de Rodriguez|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+2 - D|Bertha Carrasco Pardo|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+3 - D|Julia Villanueva Flores|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+4 - D|Agustina Alvarez Quispe|NINGUNO|Calle Angel del Prado|DOMICILIARIA|BAJA|NINGUNO
+5 - D|Constsncio Machaca|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+6 - D|Juan Santander|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+7 - D|Armando Gutierre Illanes|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+8 - D|Mario Churata|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+9 - D|Santos Rodríguez Aguilar|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+10 - D|Fransisca Gonzales|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+11 - D|Gladys Gonzales de Sanjinez|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+12 - D|Maggi Mariana Archondo Molina|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+13 - D|Carlos Suaznabar Maldonado|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+14 - D|Jasinto Hurtado Pinto|NINGUNO|Calle Angel del Prado|COMERCIAL (OFICINA, PENSION)|ACTIVO|PENSION
+15 - D|Javier Arce Pérez S.B|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+16 - D|Javier Maldonado|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+17 - D|Parroquia Santiago de Irupana|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+18 - D|Víctor Hugo Reguerin Guzmán|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+19 - D|Benito Ramos|NINGUNO|Calle Angel del Prado|FALSO|CORTADO|CORTADO
+20 - D|Santos Castillo|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+21 - D|Jesús Zeballos|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+22 - D|Cristina Vera Soto|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+23 - D|Rosalia Mostajo Hernandez|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+24 - D|Celso Laura|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+25 - D|Cooperativa "UKAMAU"|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|
+26 - D|Federacion de Campesinos|NINGUNO|Calle Angel del Prado|COMERCIAL (OFICINA, PENSION)|ACTIVO|INSTITUCION
+27 - D|Juana Cristina Rodriguez Aguilar Vda de Luna|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+28 - D|Hilarion Aruquipa C.|NINGUNO|Calle Angel del Prado|DOMICILIARIA|BAJA|
+29 - D|Felipa Ramos Gutierrez|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+30 - D|Antonia Patana Callisaya|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+31 - D|Norma Castillo|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|
+32 - D|Clemente Patana Choquehuanca|2649037|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+33 - D|Sindicato Mixto Volantes Yungas Irupana|NINGUNO|Calle Angel del Prado|COMERCIAL (OFICINA, PENSION)|ACTIVO|NINGUNO
+34 - D|Felipa Ramos Gutierrez|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+35 - D|Casa de la Cultura|NINGUNO|Calle Angel del Prado|ESPECIAL|ACTIVO|GAMI
+36 - D|Andres Rodriguez Aguilar|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+37 - D|Esther Rodríguez|NINGUNO|Calle Angel del Prado|DOMICILIARIA|BAJA|
+38 - D|Tomas Soca Quispe|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+39 - D|Lourdes Gutiérrez Vera|NINGUNO|Calle Angel del Prado|DOMICILIARIA|CORTADO|cortado agosto
+40 - D|Juan Benique Gutiérrez|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+41 - D|Carlos Patana Quispe|NINGUNO|Calle Angel del Prado|DOMICILIARIA|ACTIVO|NINGUNO
+42 - D|Genaro Laura|NINGUNO|Calle Angel del Prado|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+1 - E|Daniel Gonzales Plantarrosa|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+2 - E|Eugenia Vda. De Sánchez|NINGUNO|Calle La Paz|FALSO|SIN INST.|SIN INST.
+3 - E|Yolanda Vargas Mamani|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+4 - E|Marcelino Gutiérrez|NINGUNO|Calle La Paz|DOMICILIARIA|BAJA|
+5 - E|Luisa Vd. De Cerezo|2525535 LP|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+6 - E|Franz López Roldan|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+7 - E|Hilda Gutiérrez|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+8 - E|Isabel Hernandez Limachi|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+9 - E|Tereza Carrasco Vd. Ce Gonzales|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+10 - E|Celina Pacheco Vda. de Salas|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+11 - E|Constancia Isabel Sanchez de Tristan|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+12 - E|Agustina Mamani Quispe|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+13 - E|Yanina Claribel Garcia Pacheco|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+14 - E|Jose Gálvez|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+15 - E|Felix Poma Salazar|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+16 - E|Flora Aruquipa C.|NINGUNO|Calle La Paz|FALSO|CORTADO|CORTADO
+17 - E|Chela Arce|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+18 - E|Samuel Rojas Apaza|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+19 - E|Juan Carlos Mercado Saavedra|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+20 - E|Albertina Roldan de Lucero|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+21 - E|Jorge Monge Reguerin|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+22 - E|José Mario Monje Reguerin|491415|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+23 - E|Blanca Vargas Mamani Vda. de Alanoca|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|
+24 - E|Andrea Pinedo Huanca|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+25 - E|Dolores Mamani Huanca|NINGUNO|Calle La Paz|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+26 - E|David Delgado|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+27 - E|Felipa Pusarico de la Cruz Vda. De Copa|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+28 - E|Jorge Monge Reguerin|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+29 - E|Carola Beatris López Pacheco|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+30 - E|Nelson López Vargas|NINGUNO|Calle La Paz|DOMICILIARIA|ACTIVO|NINGUNO
+1 - F|Wilfredo Castillo T.|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+2 - F|Basilia Barra Jira|2618761|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+3 - F|Ana Marizol Mayta Calamani|NINGUNO|Calle Machacamarca|DOMICILIARIA|CORTADO|cortado 15/12/25
+4 - F|Marcos Aruquipa|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+5 - F|Kantuta de Arias|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+6 - F|Froilan Zambrana|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+7 - F|Hilda Miranda Andaveris|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+8 - F|Leto Torrelio|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+9 - F|Luis Escobar|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+10 - F|Ángel Zambrana|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+11 - F|Grasiela Orihuela|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+12 - F|María Rodríguez|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+13 - F|René Escobar|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+14 - F|Adela Huaycho López|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+15 - F|Hernan Tapia|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+16 - F|José Miguel Calbimonte|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+17 - F|Arminda Justo Andaveris|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+18 - F|Maritza Huarachi Colorado|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+19 - F|Ramiro Arias Chávez|NINGUNO|Calle Machacamarca|DOMICILIARIA|CORTADO|NINGUNO
+20 - F|Samuel Marcos LLiulli|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+21 - F|Carmen Ayala Apaza|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+22 - F|Kevin N. Perez Cuentas|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+23 - F|Javier Venique|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+24 - F|Oscar Samuel Paco Ramos|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+25 - F|Leonidas Yujra Guzman|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+26 - F|Bernardo Mamani|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+27 - F|Vicente Gutierrez Soto|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+28 - F|David Delgado|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+29 - F|Victor Berdeja Reguerin - Jhenny Pacheco|NINGUNO|Calle Machacamarca|DOMICILIARIA SOCIAL|ACTIVO|
+30 - F|Melissa Salazar Justo|NINGUNO|Calle Machacamarca|DOMICILIARIA|SIN INST.|
+31 - F|Arminda Justo Andaverez|3359049|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+32 - F|Gabriela Vega Justo|6799504 LP|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+33 - F|Julio Martin Vega Justo|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|
+34 - F|Felisa Apaza Flores|NINGUNO|Calle Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+35 - F|Chela Arce|NINGUNO|Calle Machacamarca|DOMICILIARIA|BAJA|baja
+36 - F|Lucia Paco Ramos|4310554|Machacamarca|DOMICILIARIA|BAJA|NINGUNO
+37 - F|Christian Heredia Lopéz|8404325 LP|Final Machacamarca|DOMICILIARIA|ACTIVO|NINGUNO
+38 - F|Limbert Gregorio Hinojoza|6982820 LP|Final Machacamarca|DOMICILIARIA|SIN INST.|NINGUNO
+39 - F|Agustin Quispe Mamani|9136152 LP|Final Machacamarca|DOMICILIARIA|SIN INST.|NINGUNO
+1 - G|Maggi Mariana Archondo Molina|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+2 - G|Jaime Soto|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+3 - G|Victor Justo Carreño|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+4 - G|Magina Luisa Carreño Vda. Justo|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+5 - G|Jaime Ibarra|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+6 - G|Florencia Moncada|NINGUNO|Calle Graneros|DOMICILIARIA|ACTIVO|NINGUNO
+7 - G|Fortunato Meneses|NINGUNO|Calle Graneros|DOMICILIARIA|ACTIVO|NINGUNO
+8 - G|Doris Sinforosa Venegas de Maldonado|247492|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+9 - G|María Chincheros Huanca|2401739|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+10 - G|Juan Franco|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+11 - G|Jesús Chura Saavedra|NINGUNO|Calle Graneros|DOMICILIARIA|ACTIVO|NINGUNO
+12 - G|Baño Publico Alcaldia Municipal|NINGUNO|Calle Graneros|DOMICILIARIA|ACTIVO|
+13 - G|Segundina Torrelio|NINGUNO|Calle Graneros|FALSO|BAJA|BAJA
+14 - G|Cesar Justo Carreño|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+15 - G|Genaro Antonio Bravo Acosta|NINGUNO|Calle Graneros|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+16 - G|Abel Quispe Barrera|2472861 LP|Calle Graneros|DOMICILIARIA|ACTIVO|NINGUNO
+1 - H|Hermanos Castro Muriel|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA|ACTIVO|NINGUNO
+2 - H|Juana Ledesma|NINGUNO|Plaza Victorio Lanza|COMERCIAL (OFICINA, PENSION)|ACTIVO|
+3 - H|Teresa Bustillos Vd. De Ballón|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA|ACTIVO|NINGUNO
+4 - H|María Vd. De Millán|NINGUNO|Plaza Victorio Lanza|FALSO|BAJA|BAJA
+5 - H|Ángel Soliz|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO
+6 - H|José Miguel Calbimonte|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA|BAJA|NINGUNO
+7 - H|Alberto Duran|NINGUNO|Plaza Victorio Lanza|COMERCIAL (OFICINA, PENSION)|ACTIVO|
+8 - H|Guadalupe Nelly Lara Mercado|243100|Plaza Victorio Lanza|DOMICILIARIA SOCIAL|ACTIVO|
+9 - H|Club Aspiazu|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA|ACTIVO|CLUB
+10 - H|Club Atletico|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA SOCIAL|ACTIVO|CLUB
+11 - H|Mario Vilela|NINGUNO|Plaza Victorio Lanza|COMERCIAL (OFICINA, PENSION)|ACTIVO|NINGUNO
+12 - H|H. Alcaldia Municipal|NINGUNO|Plaza Victorio Lanza|ESPECIAL|ACTIVO|GAMI
+13 - H|Martha Frida Gomez Vd de Moncada|NINGUNO|Plaza Victorio Lanza|DOMICILIARIA SOCIAL|ACTIVO|NINGUNO

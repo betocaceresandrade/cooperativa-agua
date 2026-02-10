@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="48" fill="#079FEA" stroke="#0576b9" stroke-width="2"/>
+  <path d="M50 20 C30 45, 25 65, 50 80 C75 65, 70 45, 50 20" fill="white"/>
+  <text x="50" y="95" text-anchor="middle" fill="#079FEA" font-size="8" font-family="Arial">Virgen de las Nieves</text>
+</svg>
