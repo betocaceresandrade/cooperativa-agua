@@ -4,6 +4,35 @@ Todos los cambios notables del sistema están documentados en este archivo.
 
 ---
 
+## [1.2.0] - 2026-02-10
+
+### Agregado
+- **Eximir meses**: Posibilidad de eximir meses específicos del cobro en consumos
+- **Eliminar gastos**: Botón de eliminar en la lista de gastos con reversión de caja
+- **Fondos a rendir en Estado de Resultados**: Sección con entregado/rendido/pendiente
+- **Favicon**: Icono de la cooperativa en la pestaña del navegador
+- **Créditos**: "v1.2.0 por boliviaimpuestos.com" en el sidebar
+
+### Corregido
+- **Notificaciones vacías**: Corregido nombre de tabla (tarifas→tipos_tarifa) y columna (tarifa_id→tipo_tarifa_id)
+- **Notificaciones con 1 mes**: Corregido HAVING > 1 a >= 1
+- **Anular ingresos**: Corregido nombre de columna (metodo_pago→metodo) en movimientos_caja
+- **Registrar otros ingresos**: Cambiado tabla recibos a pagos con columnas correctas
+- **Revertir exención**: Cambiado execute() a update() para evitar error 500
+- **Logo en recibos y menú**: Corregido logo vacío, añadido LOGO_BASE64
+
+### Mejorado
+- **Backup**: Ahora descarga archivo .sql directamente (headers antes de HTML)
+- **Fuentes en gastos imprimir**: Aumentado tamaño de letra para legibilidad
+- **Recibos**: Muestra otros ingresos cobrados en el detalle
+
+### Limpieza de datos
+- Eliminada socia de prueba "PATRICIA 2" y sus acciones
+- Eliminados todos los datos de prueba de 2026 (pagos, gastos, fondos, movimientos)
+- Reiniciado correlativo de recibos a 0
+
+---
+
 ## [2.0.0] - 2026-02-04
 
 ### Agregado
@@ -34,82 +63,12 @@ Todos los cambios notables del sistema están documentados en este archivo.
 - Filtros por zona, búsqueda y meses mínimo de deuda
 
 #### Reportes Nuevos
-- **Gastos Detallado** (`/modules/reportes/gastos-detallado.php`):
-  - Rendición de cuentas para asambleas
-  - Filtros por fecha, categoría y método de pago
-  - Resumen por categoría con porcentajes
-  - Detalle completo de cada gasto
-  - Formato optimizado para impresión
-  - Espacios para firmas
+- **Gastos Detallado**: Rendición de cuentas para asambleas con filtros y resumen por categoría
 
 #### Comprobante de Egreso
-- Nueva vista de impresión para gastos (`/modules/gastos/imprimir.php`)
+- Nueva vista de impresión para gastos
 - Diseño en rojo (diferenciado del Comprobante de Ingreso en azul)
 - Incluye monto en literal, categoría y firmas
-
-#### Base de Datos
-- Nueva tabla `pago_consumos` - Vincula pagos con consumos_anuales
-- Nueva tabla `otros_ingresos` - Cobros adicionales (reconexión, multas)
-- Campo `accion_id` en tabla `pagos`
-- Vistas: `v_acciones_completas`, `v_deudas_acciones`
-
-### Modificado
-
-#### Estructura Socios/Acciones
-- Un socio puede tener múltiples acciones
-- Cada acción tiene su propia zona y tipo de tarifa
-- Las deudas se manejan por acción, no por socio
-- Migrados 924 socios con 979 acciones y 30 zonas
-
-#### Reportes Actualizados
-- **Deudores** (`deudores.php`):
-  - Ahora basado en acciones (no socios)
-  - Filtro unificado (socio, acción, N° socio)
-  - Link directo a cobrar
-  - Resumen por zona
-
-- **Socios** (`socios.php`):
-  - Dos vistas: "Por Acción" y "Por Socio"
-  - Filtro unificado (socio, acción, CI, N° socio)
-  - Estados con badges de colores
-  - Resumen por estado
-
-#### Comprobante de Ingreso (Recibo)
-- Muestra "Acción N°" en vez de "Socio N°"
-- Sección "MESES COBRADOS" con badges visuales
-- Incluye zona de la acción
-- Monto en literal (ej: "Doce 50/100 Bolivianos")
-
-#### Gastos
-- Campo "N° Recibo/Factura del Proveedor" agregado
-- Buscador por concepto o número de recibo
-- Formulario unificado para crear y editar
-
-#### Entrega de Dinero (antes Depósito Bancario)
-- Renombrado a "Registro de Entrega de Dinero"
-- Campo "Banco" → "Entregado a:"
-- Campo "Número de Depósito" → "Número de documento"
-
-### Cambios de Terminología
-| Antes | Después |
-|-------|---------|
-| Dashboard | Inicio |
-| Servicios | Consumo |
-| Cobros | Otros Ingresos |
-| Inactivo/Activo | CORTADO/ACTIVO |
-| Recibo | Comprobante de Ingreso |
-| (vista impresión gastos) | Comprobante de Egreso |
-| Socio N° | Acción N°: |
-| Registrar Depósito Bancario | Registro de entrega de dinero |
-| Banco | Entregado a: |
-| Número de Depósito | Número de documento |
-| Backup | Respaldo |
-
-### Estados de Socios/Acciones
-- **ACTIVO** (verde) - 828 registros
-- **CORTADO** (rojo) - 19 registros
-- **BAJA** (gris) - 76 registros
-- **SIN INST.** (azul) - 56 registros
 
 ---
 
